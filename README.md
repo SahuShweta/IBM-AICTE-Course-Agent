@@ -1,5 +1,4 @@
 # IBM-AICTE-Course-Agent
-
 # 🎓 AI Personalized Course Pathway Agent
 
 ## IBM SkillsBuild AICTE Internship 2026
